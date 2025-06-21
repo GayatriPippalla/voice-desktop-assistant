@@ -20,6 +20,7 @@ A voice-activated personal assistant built with Python. It listens to your comma
 To get a copy of this project on your system:
 
 git clone https://github.com/GayatriPippalla/voice-desktop-assistant.git
+
 cd voice-desktop-assistant
 
 ##  Required Libraries
@@ -28,10 +29,15 @@ Make sure you have these Python packages installed:
 
 
 pip install speechrecognition
+
 pip install pyttsx3
+
 pip install pywhatkit
+
 pip install wikipedia
+
 pip install pyjokes
+
 pip install pyaudio
 ## How to Run
 Open a terminal in the project folder.
